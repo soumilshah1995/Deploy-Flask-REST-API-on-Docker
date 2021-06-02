@@ -18,7 +18,7 @@ requests==2.22.0
 soupsieve==1.9.5
 sqlparse==0.3.0
 tika==1.23.1
-urllib3==1.25.7
+urllib3==1.26.5
 Werkzeug==0.16.0
 WTForms==2.2.1
 xlrd==1.2.0
